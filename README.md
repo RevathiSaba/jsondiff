@@ -1,2 +1,2 @@
 # jsondiff
-Simple python to compare to two json files
+Simple python utility to compare to two json files
