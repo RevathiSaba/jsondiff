@@ -44,7 +44,7 @@ def get_matching_keys(a_dict1, a_dict2):
 		g_output_dict1_missing_keys.append(l_dict1_missing_keys)
 
 	if l_dict2_missing_keys is not None:
-    g_output_dict2_missing_keys.append(l_dict2_missing_keys)
+		g_output_dict2_missing_keys.append(l_dict2_missing_keys)
 
 	return l_matching_keys
 
